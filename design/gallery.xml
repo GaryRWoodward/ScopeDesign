@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	galleryStyle="MODERN"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="5"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	languageCode="AUTO"
+	languageList=""
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Scope Design Production - Design"
+	useFlash="true"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+
+>
+  <image imageURL="images/01-01.JPG"
+	thumbURL="thumbs/01-01.JPG"
+	linkURL="images/01-01.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>XTRO - feature film 1979</h3><br /><p>Development of main creature</p>]]></caption>
+  </image>
+  <image imageURL="images/01-02.JPG"
+	thumbURL="thumbs/01-02.JPG"
+	linkURL="images/01-02.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>XTRO - feature film 1979</h3><br /><p>Development of main creature</p>]]></caption>
+  </image>
+  <image imageURL="images/01-03.JPG"
+	thumbURL="thumbs/01-03.JPG"
+	linkURL="images/01-03.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>XTRO - feature film 1979</h3><br /><p>1st transition</p>]]></caption>
+  </image>
+  <image imageURL="images/01-04.JPG"
+	thumbURL="thumbs/01-04.JPG"
+	linkURL="images/01-04.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>XTRO - feature film 1979</h3><br /><p>2nd transition - Cocoon</p>]]></caption>
+  </image>
+  <image imageURL="images/01-05.JPG"
+	thumbURL="thumbs/01-05.JPG"
+	linkURL="images/01-05.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>XTRO - feature film 1979</h3><br /><p>2nd transition - Cocoon</p>]]></caption>
+  </image>
+  <image imageURL="images/01-06.jpg"
+	thumbURL="thumbs/01-06.jpg"
+	linkURL="images/01-06.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>XTRO - feature film 1979</h3><br /><p>On set</p>]]></caption>
+  </image>
+  <image imageURL="images/03-02.jpg"
+	thumbURL="thumbs/03-02.jpg"
+	linkURL="images/03-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>'Cold Lazarus'</h3><br /><p>TV screenplay of Dennis Potters' last play. Filmed over 4 episodes on both BBC &amp; ITV. Starring Albert Finney, Francis de la Tour and Saffron Burrows.</p>]]></caption>
+  </image>
+  <image imageURL="images/03-01.jpg"
+	thumbURL="thumbs/03-01.jpg"
+	linkURL="images/03-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>'Cold Lazarus'</h3><br /><p>Made 4 huge 'hovercraft' Police vehicles each carrying 10 fully armed policemen. Also, 4 'hovercraft' bubble Taxis</p>]]></caption>
+  </image>
+  <image imageURL="images/03-04.jpeg"
+	thumbURL="thumbs/03-04.jpeg"
+	linkURL="images/03-04.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>'Cold Lazarus'</h3><br /><p>6 'Autocube' remote controlled chairs</p>]]></caption>
+  </image>
+  <image imageURL="images/03-03.jpeg"
+	thumbURL="thumbs/03-03.jpeg"
+	linkURL="images/03-03jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>'Cold Lazarus'</h3><br /><p>Close-up showing 'autocube' chair design</p>]]></caption>
+  </image>
+  <image imageURL="images/02-01.jpeg"
+	thumbURL="thumbs/02-01.jpeg"
+	linkURL="images/02-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>10cc</h3><br /><p>10cc Stage-prop Logo</p>]]></caption>
+  </image>
+  <image imageURL="images/02-02.jpg"
+	thumbURL="thumbs/02-02.jpg"
+	linkURL="images/02-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>10cc</h3><br /><p>10cc Stage-prop Logo - on stage at show</p>]]></caption>
+  </image>
+  <image imageURL="images/04-01.jpeg"
+	thumbURL="thumbs/04-01.jpeg"
+	linkURL="images/04-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Thin Lizzie</h3><br /><p>Thin Lizzie stage-prop Logo</p>]]></caption>
+  </image>
+  <image imageURL="images/05-01.jpeg"
+	thumbURL="thumbs/05-01.jpeg"
+	linkURL="images/05-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Mike Oldfield</h3><br /><p>Mile Oldfield stage-prop Logo</p>]]></caption>
+  </image>
+  <image imageURL="images/12-01.jpeg"
+	thumbURL="thumbs/12-01.jpeg"
+	linkURL="images/12-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Samsung Robot</h3><br /><p>Made to introduce Samsung into European Market as their inaugural TV ad.</p>]]></caption>
+  </image>
+  <image imageURL="images/12-02.jpeg"
+	thumbURL="thumbs/12-02.jpeg"
+	linkURL="images/12-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Samsung Robot</h3><br /><p>Complete control over concept, design and suit production</p>]]></caption>
+  </image>
+  <image imageURL="images/12-03.jpeg"
+	thumbURL="thumbs/12-03.jpeg"
+	linkURL="images/12-03.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Samsung Robot</h3><br /><p>Modelled onto life-cast in clay...</p>]]></caption>
+  </image>
+  <image imageURL="images/12-04.jpeg"
+	thumbURL="thumbs/12-04.jpeg"
+	linkURL="images/12-04.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Samsung Robot</h3><br /><p>... for final production in chrome-plated, vacuum formed ABS. 1987</p>]]></caption>
+  </image>
+  <image imageURL="images/12-05.jpeg"
+	thumbURL="thumbs/12-05.jpeg"
+	linkURL="images/12-05.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Samsung Robot</h3><br /><p>Fully mobile</p>]]></caption>
+  </image>
+</simpleviewergallery>

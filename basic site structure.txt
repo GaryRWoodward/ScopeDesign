@@ -1,0 +1,18 @@
+Scopedesign
+
+>layout
+
+Homepage
+
+Gallery
+	Sculptures
+	Model-making
+	Design
+	Mould-making
+
+Contact
+
+>Features
+
+updateable image gallery with pictures and text.
+
