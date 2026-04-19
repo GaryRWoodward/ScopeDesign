@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	galleryStyle="MODERN"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="10"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	languageCode="AUTO"
+	languageList=""
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Scope Design Production - Mould-Making &amp; Casting"
+	useFlash="true"
+
+>
+  <image imageURL="images/01-01.JPG"
+	thumbURL="thumbs/01-01.JPG"
+	linkURL="images/01-01.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>XTRO - feature film 1979</h3><br /><p>Development of main creature</p>]]></caption>
+  </image>
+  <image imageURL="images/01-02.jpg"
+	thumbURL="thumbs/01-02.jpg"
+	linkURL="images/01-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Life-sized face cast for commission</h3>]]></caption>
+  </image>
+</simpleviewergallery>
