@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	galleryStyle="MODERN"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="5"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	languageCode="AUTO"
+	languageList=""
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Scope Design Production - Sculpture"
+	useFlash="true"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	backgroundTransparent="false"
+
+>
+  <image imageURL="images/01-01.jpg"
+	thumbURL="thumbs/01-01.jpg"
+	linkURL="images/01-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h2>Emmett Kelly <br /> The Original Sad Faced Clown</h2><br /><p>200mm high Sculpture made in stylists clay as a commemorative model for the Emmett Kelly Foundation, USA</p>]]></caption>
+  </image>
+  <image imageURL="images/01-02.jpg"
+	thumbURL="thumbs/01-02.jpg"
+	linkURL="images/01-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h2>Emmett Kelly <br /> The Original Sad Faced Clown</h2><br /><p>200mm high Sculpture made in stylists clay as a commemorative model for the Emmett Kelly Foundation, USA</p>]]></caption>
+  </image>
+  <image imageURL="images/01-03.jpg"
+	thumbURL="thumbs/01-03.jpg"
+	linkURL="images/01-03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h2>Emmett Kelly <br /> The Original Sad Faced Clown</h2><br /><p>200mm Sculpture made in stylists clay as a commemorative model for the Emmett Kelly Foundation, USA</p>]]></caption>
+  </image>
+  <image imageURL="images/02-01.jpg"
+	thumbURL="thumbs/02-01.jpg"
+	linkURL="images/02-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Tyranosaurus Rex</h3><br /><p>Clay sculpture, cast into foam latex for the pilot film 'Lost Worlds'.</p>]]></caption>
+  </image>
+  <image imageURL="images/02-02.jpg"
+	thumbURL="thumbs/02-02.jpg"
+	linkURL="images/02-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Tyranosaurus Rex</h3><br /><p>Clay sculpture, cast into foam latex for the pilot film 'Lost Worlds'.</p>]]></caption>
+  </image>
+  <image imageURL="images/02-03.jpg"
+	thumbURL="thumbs/02-03.jpg"
+	linkURL="images/02-03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Tyranosaurus Rex</h3><br /><p>Clay sculpture, cast into foam latex for the pilot film 'Lost Worlds'.</p>]]></caption>
+  </image>
+  <image imageURL="images/03-01.jpg"
+	thumbURL="thumbs/03-01.jpg"
+	linkURL="images/03-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Eco Theme Park</h3><br /><p>Huge creatures sculpted largely in expanded polystyrene and cast into fibreglass for the Irish Environmental Agency. To be used as recylcing containers.</p>]]></caption>
+  </image>
+  <image imageURL="images/03-02.jpg"
+	thumbURL="thumbs/03-02.jpg"
+	linkURL="images/03-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Eco Theme Park</h3><br /><p>Giant Catarpillar with Giant Spider in the background, the man standing next to the spider shows the scale of the sculptures.</p>]]></caption>
+  </image>
+  <image imageURL="images/03-03.jpg"
+	thumbURL="thumbs/03-03.jpg"
+	linkURL="images/03-03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Eco Theme Park</h3><br /><p>Fly on a bottle</p>]]></caption>
+  </image>
+  <image imageURL="images/03-04.jpg"
+	thumbURL="thumbs/03-04.jpg"
+	linkURL="images/03-04.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Eco Theme Park</h3><br /><p>This view shows the recycling access point</p>]]></caption>
+  </image>
+  <image imageURL="images/03-05.jpg"
+	thumbURL="thumbs/03-05.jpg"
+	linkURL="images/03-05.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Eco Theme Park</h3><br /><p>The Giant Snail is of a size to compete with the Giant Spider, minus the legs!</p>]]></caption>
+  </image>
+  <image imageURL="images/03-06.jpg"
+	thumbURL="thumbs/03-06.jpg"
+	linkURL="images/03-06.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Eco Theme Park</h3><br /><p>Likewise, this sculpture of a Giant Ladybird is of the same size as the Giant Snail</p>]]></caption>
+  </image>
+  <image imageURL="images/03-07.jpg"
+	thumbURL="thumbs/03-07.jpg"
+	linkURL="images/03-07.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Eco Theme Park</h3><br /><p>The Dragonfly is almost as big as the Giant Ladybird</p>]]></caption>
+  </image>
+  <image imageURL="images/03-08.jpg"
+	thumbURL="thumbs/03-08.jpg"
+	linkURL="images/03-08.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Eco Theme Park</h3><br /><p>Including the legs, this is the largest sculpture, closely followed by the Giant Catapillar</p>]]></caption>
+  </image>
+  <image imageURL="images/04-01.jpg"
+	thumbURL="thumbs/04-01.jpg"
+	linkURL="images/04-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>NeverEnding Story I, II &amp; III</h3><br /><p>The first reprresentative picture is from 'Neverending Story III' by Hensons Creature Workshop, while all the others are from the original film.</p>]]></caption>
+  </image>
+  <image imageURL="images/04-02.jpg"
+	thumbURL="thumbs/04-02.jpg"
+	linkURL="images/04-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>NeverEnding Story</h3><br /><p>Creating the Luck Dragon. Sculpted in Clay to be cast into foam latex.</p>]]></caption>
+  </image>
+  <image imageURL="images/04-03.jpg"
+	thumbURL="thumbs/04-03.jpg"
+	linkURL="images/04-03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>NeverEnding Story</h3><br /><p>The Giant Racing Snail (motorised) shown as actual size, scuplted into latex and cast into fibreglass. (see next picture for comparative scenery.)</p>]]></caption>
+  </image>
+  <image imageURL="images/04-04.jpg"
+	thumbURL="thumbs/04-04.jpg"
+	linkURL="images/04-04.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>NeverEnding Story</h3><br /><p>The Rock Biter, see snail in foreground to get size of how big this character is!</p>]]></caption>
+  </image>
+  <image imageURL="images/04-05.jpg"
+	thumbURL="thumbs/04-05.jpg"
+	linkURL="images/04-05.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>NeverEnding Story</h3><br /><p>Full size animatronic Bat with expandable wings hanging</p>]]></caption>
+  </image>
+  <image imageURL="images/04-06.jpg"
+	thumbURL="thumbs/04-06.jpg"
+	linkURL="images/04-06.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>NeverEnding Story</h3><br /><p>1/12th size flying model Bat. Fully animatronic, in flight mode</p>]]></caption>
+  </image>
+  <image imageURL="images/04-07.jpg"
+	thumbURL="thumbs/04-07.jpg"
+	linkURL="images/04-07.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>NeverEnding Story</h3><br /><p>Top of Ivory Tower. 100th scale for mid range shots</p>]]></caption>
+  </image>
+  <image imageURL="images/04-08.jpg"
+	thumbURL="thumbs/04-08.jpg"
+	linkURL="images/04-08.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>NeverEnding Story III</h3><br /><p>Talking bird. Sculpted for Jim Henson's Creature Shop in 1997. Generated in modelling clay for animated reproduction in foam latex</p>]]></caption>
+  </image>
+  <image imageURL="images/04-10.jpg"
+	thumbURL="thumbs/04-10.jpg"
+	linkURL="images/04-10.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>NeverEnding Story III</h3><br /><p>Talking bird. Sculpted for Jim Henson's Creature Shop in 1997. Generated in modelling clay for animated reproduction in foam latex</p>]]></caption>
+  </image>
+  <image imageURL="images/05-01.jpg"
+	thumbURL="thumbs/05-01.jpg"
+	linkURL="images/05-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Statue of a Labrador</h3><br /><p>A life-sized sculpture of a Labrador - Commissioned</p>]]></caption>
+  </image>
+  <image imageURL="images/05-02.jpg"
+	thumbURL="thumbs/05-02.jpg"
+	linkURL="images/05-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Statue of a Labrador</h3><br /><p>Full sized Bronze cast statue</p>]]></caption>
+  </image>
+  <image imageURL="images/06-01.jpg"
+	thumbURL="thumbs/06-01.jpg"
+	linkURL="images/06-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Mich Laus der Affe</h3><br /><p>German TV game show awards. Presented to the winners and losers. Approx 50 of each produced. Original sculptures, mould-making, casting and painting</p>]]></caption>
+  </image>
+  <image imageURL="images/08-01.jpg"
+	thumbURL="thumbs/08-01.jpg"
+	linkURL="images/08-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Oor Wullie</h3><br /><p>Scottish cartoon character published in 'The Sunday Post' from 1936 - 1969.</p>]]></caption>
+  </image>
+  <image imageURL="images/08-02.jpg"
+	thumbURL="thumbs/08-02.jpg"
+	linkURL="images/08-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Oor Wullie</h3><br /><p>Original 1/4 scale maquette modelled in plasticene</p>]]></caption>
+  </image>
+  <image imageURL="images/08-03.jpg"
+	thumbURL="thumbs/08-03.jpg"
+	linkURL="images/08-03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Oor Wullie</h3><br /><p>Full sized sculpture made in modelling clay, moulded in acrylic 'polydur' and cast in cold cure Bronze fibreglass 2012.</p>]]></caption>
+  </image>
+  <image imageURL="images/08-04.jpg"
+	thumbURL="thumbs/08-04.jpg"
+	linkURL="images/08-04.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Oor Wullie</h3><br /><p>Full sized sculpture made in modelling clay, moulded in acrylic 'polydur' and cast in cold cure Bronze fibreglass 2012.</p>]]></caption>
+  </image>
+  <image imageURL="images/08-05.jpg"
+	thumbURL="thumbs/08-05.jpg"
+	linkURL="images/08-05.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Oor Wullie</h3><br /><p>Full sized sculpture made in modelling clay, moulded in acrylic 'polydur' and cast in cold cure Bronze fibreglass 2012.</p>]]></caption>
+  </image>
+  <image imageURL="images/08-06.jpg"
+	thumbURL="thumbs/08-06.jpg"
+	linkURL="images/08-06.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Oor Wullie</h3><br /><p>Full sized sculpture made in modelling clay, moulded in acrylic 'polydur' and cast in cold cure Bronze fibreglass 2012.</p>]]></caption>
+  </image>
+  <image imageURL="images/09-01.jpeg"
+	thumbURL="thumbs/09-01.jpeg"
+	linkURL="images/09-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Beginning or End?</h3><br /><p>Glassfibre from clay. 4ft (1200mm) high. Exhibited at R.B.A galleries 1964</p>]]></caption>
+  </image>
+  <image imageURL="images/09-02.jpeg"
+	thumbURL="thumbs/09-02.jpeg"
+	linkURL="images/09-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Beginning or End?</h3><br /><p>Glassfibre from clay. 4ft (1200mm) high. Exhibited at R.B.A galleries 1964</p>]]></caption>
+  </image>
+  <image imageURL="images/10-01.jpeg"
+	thumbURL="thumbs/10-01.jpeg"
+	linkURL="images/10-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Mrs Bunny</h3><br /><p>1/4 scale study modelled in clay and cast in plaster. Made while a student in 1964</p>]]></caption>
+  </image>
+  <image imageURL="images/10-02.jpeg"
+	thumbURL="thumbs/10-02.jpeg"
+	linkURL="images/10-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Mrs Bunny</h3><br /><p>1/4 scale study modelled in clay and cast in plaster. Made while a student in 1964</p>]]></caption>
+  </image>
+  <image imageURL="images/11-01.jpg"
+	thumbURL="thumbs/11-01.jpg"
+	linkURL="images/11-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Erotic Bakery, Munich</h3><br /><p>Icing sugar and marzipan models, sculpted in stylists' wax, cast in plaster, 1983</p>]]></caption>
+  </image>
+  <image imageURL="images/11-02.jpeg"
+	thumbURL="thumbs/11-02.jpeg"
+	linkURL="images/11-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Erotic Bakery, Munich</h3><br /><p>Icing sugar and marzipan models, sculpted in stylists' wax, cast in plaster, 1983</p>]]></caption>
+  </image>
+  <image imageURL="images/12-01.jpeg"
+	thumbURL="thumbs/12-01.jpeg"
+	linkURL="images/12-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Samsung Robot</h3><br /><p>Made to introduce Samsung into European Market as their inaugural TV ad.</p>]]></caption>
+  </image>
+  <image imageURL="images/12-02.jpeg"
+	thumbURL="thumbs/12-02.jpeg"
+	linkURL="images/12-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Samsung Robot</h3><br /><p>Complete control over concept, design and suit production</p>]]></caption>
+  </image>
+  <image imageURL="images/12-03.jpeg"
+	thumbURL="thumbs/12-03.jpeg"
+	linkURL="images/12-03.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Samsung Robot</h3><br /><p>Modelled onto life-cast in clay...</p>]]></caption>
+  </image>
+  <image imageURL="images/12-04.jpeg"
+	thumbURL="thumbs/12-04.jpeg"
+	linkURL="images/12-04.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Samsung Robot</h3><br /><p>... for final production in chrome-plated, vacuum formed ABS. 1987</p>]]></caption>
+  </image>
+  <image imageURL="images/13-01.jpeg"
+	thumbURL="thumbs/13-01.jpeg"
+	linkURL="images/13-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>'Lost in Space'</h3><br /><p>Feature film, 1997. Fantasy tree forms sculpted in expanded polystyrene. Shepperton Studios</p>]]></caption>
+  </image>
+  <image imageURL="images/13-02.jpeg"
+	thumbURL="thumbs/13-02.jpeg"
+	linkURL="images/13-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>'Lost in Space'</h3><br /><p>Feature film, 1997. Fantasy tree forms sculpted in expanded polystyrene. Shepperton Studios</p>]]></caption>
+  </image>
+  <image imageURL="images/13-03.jpeg"
+	thumbURL="thumbs/13-03.jpeg"
+	linkURL="images/13-03.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>'Lost in Space'</h3><br /><p>Feature film, 1997. Fantasy tree forms sculpted in expanded polystyrene. Shepperton Studios</p>]]></caption>
+  </image>
+  <image imageURL="images/14-01.jpeg"
+	thumbURL="thumbs/14-01.jpeg"
+	linkURL="images/14-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>'Return of the Mummy'</h3><br /><p>Feature film, Sheppereton Studios, 2000. Expanded polystyrene scenery scuplture</p>]]></caption>
+  </image>
+  <image imageURL="images/07-01.jpeg"
+	thumbURL="thumbs/07-01.jpeg"
+	linkURL="images/07-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>TUTANKHAMUN</h3><br /><p>Private commission and with interest from The British Museum. (cont'd.)</p>]]></caption>
+  </image>
+  <image imageURL="images/07-02.jpeg"
+	thumbURL="thumbs/07-02.jpeg"
+	linkURL="images/07-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>TUTANKHAMUN</h3><br /><p>Sculpted full size in plasticine with final mask to be finished in gold leaf, gold plating and cold cure lapis lazuli, turquoise, quartz, carnelian, green feldspar and obsidian. (ongoing)</p>]]></caption>
+  </image>
+  <image imageURL="images/07-03.jpeg"
+	thumbURL="thumbs/07-03.jpeg"
+	linkURL="images/07-03.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>TUTANKHAMUN</h3><br /><p>Embossed Hieroglyphics to be gold leafed at a later date (ongoing)</p>]]></caption>
+  </image>
+  <image imageURL="images/07-04.jpeg"
+	thumbURL="thumbs/07-04.jpeg"
+	linkURL="images/07-04.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>TUTANKHAMUN</h3><br /><p>Showing Vulture and Cobra headdress. (ongoing)</p>]]></caption>
+  </image>
+</simpleviewergallery>
