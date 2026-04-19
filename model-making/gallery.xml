@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	galleryStyle="MODERN"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="5"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	languageCode="AUTO"
+	languageList=""
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Scope Design Production - Model-Making"
+	useFlash="true"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+
+>
+  <image imageURL="images/01-02.jpg"
+	thumbURL="thumbs/01-02.jpg"
+	linkURL="images/01-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Tower Vaults Museum, London</h3><br /><p>Made in clay for fibreglass</p>]]></caption>
+  </image>
+  <image imageURL="images/01-03.jpg"
+	thumbURL="thumbs/01-03.jpg"
+	linkURL="images/01-03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Tower Vaults Museum, London</h3><br /><p>Single masted Saxon boat</p>]]></caption>
+  </image>
+  <image imageURL="images/01-04.jpeg"
+	thumbURL="thumbs/01-04.jpeg"
+	linkURL="images/01-04.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Tower Vaults Museum, London</h3><br /><p>Galleon under full sail</p>]]></caption>
+  </image>
+  <image imageURL="images/01-05.jpeg"
+	thumbURL="thumbs/01-05.jpeg"
+	linkURL="images/01-05.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Tower Vaults Museum, London</h3><br /><p>Viking longship</p>]]></caption>
+  </image>
+  <image imageURL="images/02-01.jpg"
+	thumbURL="thumbs/02-01.jpg"
+	linkURL="images/02-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>R2D2 character</h3><br />All pattern making, mould-making casting in GRP, vacuum-forming and assembly of 9 robots for "Star Wars - The Empire Strikes Back" film.</p>]]></caption>
+  </image>
+  <image imageURL="images/02-02.jpg"
+	thumbURL="thumbs/02-02.jpg"
+	linkURL="images/02-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>R2D2 character</h3><br />All pattern making, mould-making casting in GRP, vacuum-forming and assembly of 9 robots for "Star Wars - The Empire Strikes Back" film.</p>]]></caption>
+  </image>
+  <image imageURL="images/02-03.jpg"
+	thumbURL="thumbs/02-03.jpg"
+	linkURL="images/02-03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>R2D2 character</h3><br />All pattern making, mould-making casting in GRP, vacuum-forming and assembly of 9 robots for "Star Wars - The Empire Strikes Back" film.</p>]]></caption>
+  </image>
+  <image imageURL="images/02-04.jpg"
+	thumbURL="thumbs/02-04.jpg"
+	linkURL="images/02-04.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>R2D2 character</h3><br />All pattern making, mould-making casting in GRP, vacuum-forming and assembly of 9 robots for "Star Wars - The Empire Strikes Back" film.</p>]]></caption>
+  </image>
+  <image imageURL="images/03-02.jpg"
+	thumbURL="thumbs/03-02.jpg"
+	linkURL="images/03-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>'Cold Lazarus'</h3><br /><p>TV screenplay of Dennis Potters' last play. Filmed over 4 episodes on both BBC &amp; ITV. Starring Albert Finney, Francis de la Tour and Saffron Burrows.</p>]]></caption>
+  </image>
+  <image imageURL="images/03-01.jpg"
+	thumbURL="thumbs/03-01.jpg"
+	linkURL="images/03-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>'Cold Lazarus'</h3><br /><p>Made 4 huge 'hovercraft' Police vehicles each carrying 10 fully armed policemen. Also, 4 'hovercraft' bubble Taxis</p>]]></caption>
+  </image>
+  <image imageURL="images/04-02.JPG"
+	thumbURL="thumbs/04-02.JPG"
+	linkURL="images/04-02.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>1 Metre Cubed Models for </h3><br />Turner prizewinner Keith Tyson<br /><p>"Boy's Own" exploded view of undergroubd tube station</p>]]></caption>
+  </image>
+  <image imageURL="images/04-01.JPG"
+	thumbURL="thumbs/04-01.JPG"
+	linkURL="images/04-01.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>1 Metre Cubed Models for </h3><br />Turner prizewinner Keith Tyson<br /><p>"Boy's Own" exploded view of undergroubd tube station</p>]]></caption>
+  </image>
+  <image imageURL="images/04-03.JPG"
+	thumbURL="thumbs/04-03.JPG"
+	linkURL="images/04-03.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>1 Metre Cubed Models for </h3><br />Turner prizewinner Keith Tyson<br /><p>Curtain walled office block with scaffolding</p>]]></caption>
+  </image>
+  <image imageURL="images/04-04.JPG"
+	thumbURL="thumbs/04-04.JPG"
+	linkURL="images/04-04.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>1 Metre Cubed Models for </h3><br />Turner prizewinner Keith Tyson<br /><p>Curtain walled office block with scaffolding</p>]]></caption>
+  </image>
+  <image imageURL="images/05-01.JPG"
+	thumbURL="thumbs/05-01.JPG"
+	linkURL="images/05-01.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Sugar Cane Plantation</h3><br /><p>Permanent exhibit for the Liverpool Maritime Museums' "Abolition of Slavery" exhibition</p>]]></caption>
+  </image>
+  <image imageURL="images/05-02.JPG"
+	thumbURL="thumbs/05-02.JPG"
+	linkURL="images/05-02.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Sugar Cane Plantation</h3><br /><p>Permanent exhibit for the Liverpool Maritime Museums' "Abolition of Slavery" exhibition</p>]]></caption>
+  </image>
+  <image imageURL="images/05-03.JPG"
+	thumbURL="thumbs/05-03.JPG"
+	linkURL="images/05-03.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Sugar Cane Plantation</h3><br /><p>Permanent exhibit for the Liverpool Maritime Museums' "Abolition of Slavery" exhibition</p>]]></caption>
+  </image>
+  <image imageURL="images/05-04.JPG"
+	thumbURL="thumbs/05-04.JPG"
+	linkURL="images/05-04.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Sugar Cane Plantation</h3><br /><p>Permanent exhibit for the Liverpool Maritime Museums' "Abolition of Slavery" exhibition</p>]]></caption>
+  </image>
+  <image imageURL="images/06-01.jpg"
+	thumbURL="thumbs/06-01.jpg"
+	linkURL="images/06-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Caxton Gate Development, Birmingham</h3><br /><p>Victorian era chimney<br />Lightweight reproduction of original 'Authentic Period Style Chimneys' in preservation area of Birmingham City Centre</p>]]></caption>
+  </image>
+  <image imageURL="images/06-02.jpg"
+	thumbURL="thumbs/06-02.jpg"
+	linkURL="images/06-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Caxton Gate Development, Birmingham</h3><br /><p>Victorian era chimney<br />Lightweight reproduction of original 'Authentic Period Style Chimneys' in preservation area of Birmingham City Centre</p>]]></caption>
+  </image>
+  <image imageURL="images/06-03.jpg"
+	thumbURL="thumbs/06-03.jpg"
+	linkURL="images/06-03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Caxton Gate Development, Birmingham</h3><br /><p>Victorian era chimney<br />Lightweight reproduction of original 'Authentic Period Style Chimneys' in preservation area of Birmingham City Centre</p>]]></caption>
+  </image>
+  <image imageURL="images/06-04.jpg"
+	thumbURL="thumbs/06-04.jpg"
+	linkURL="images/06-04.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Caxton Gate Development, Birmingham</h3><br /><p>Victorian era chimney<br />Lightweight reproduction of original 'Authentic Period Style Chimneys' in preservation area of Birmingham City Centre</p>]]></caption>
+  </image>
+  <image imageURL="images/07-01.jpeg"
+	thumbURL="thumbs/07-01.jpeg"
+	linkURL="images/07-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>The Private Life of Plants</h3><br /><p>David Attenborough nature presentation for the BBC</p>]]></caption>
+  </image>
+  <image imageURL="images/07-02.jpeg"
+	thumbURL="thumbs/07-02.jpeg"
+	linkURL="images/07-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>The Private Life of Plants</h3><br /><p>David Attenborough nature presentation for the BBC</p>]]></caption>
+  </image>
+  <image imageURL="images/07-03.jpeg"
+	thumbURL="thumbs/07-03.jpeg"
+	linkURL="images/07-03.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>The Private Life of Plants</h3><br /><p>David Attenborough nature presentation for the BBC</p>]]></caption>
+  </image>
+  <image imageURL="images/08-01.jpeg"
+	thumbURL="thumbs/08-01.jpeg"
+	linkURL="images/08-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>The Borrowers Feature Film</h3><br /><p>Oversized props for use by actors in film sequences</p>]]></caption>
+  </image>
+  <image imageURL="images/08-02.jpeg"
+	thumbURL="thumbs/08-02.jpeg"
+	linkURL="images/08-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>The Borrowers Feature Film</h3><br /><p>Oversized props for use by actors in film sequences</p>]]></caption>
+  </image>
+  <image imageURL="images/08-03.jpeg"
+	thumbURL="thumbs/08-03.jpeg"
+	linkURL="images/08-03.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>The Borrowers Feature Film</h3><br /><p>Oversized props for use by actors in film sequences</p>]]></caption>
+  </image>
+  <image imageURL="images/09-01.jpeg"
+	thumbURL="thumbs/09-01.jpeg"
+	linkURL="images/09-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>TV Advertisement Models</h3><br /><p>Club Buscuit shown to scale against an original chocolate bar</p>]]></caption>
+  </image>
+  <image imageURL="images/10-01.jpeg"
+	thumbURL="thumbs/10-01.jpeg"
+	linkURL="images/10-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>EuroDisney - Paris</h3><br /><p>All finials for the Fairytale Castle in the EuroDisney Resort</p>]]></caption>
+  </image>
+  <image imageURL="images/10-02.jpeg"
+	thumbURL="thumbs/10-02.jpeg"
+	linkURL="images/10-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>EuroDisney - Paris</h3><br /><p>All finials for the Fairytale Castle in the EuroDisney Resort</p>]]></caption>
+  </image>
+  <image imageURL="images/10-03.jpeg"
+	thumbURL="thumbs/10-03.jpeg"
+	linkURL="images/10-03.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>EuroDisney - Paris</h3><br /><p>All finials for the Fairytale Castle in the EuroDisney Resort</p>]]></caption>
+  </image>
+  <image imageURL="images/10-04.jpeg"
+	thumbURL="thumbs/10-04.jpeg"
+	linkURL="images/10-04.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>EuroDisney - Paris</h3><br /><p>All finials for the Fairytale Castle in the EuroDisney Resort</p>]]></caption>
+  </image>
+  <image imageURL="images/11-01.jpeg"
+	thumbURL="thumbs/11-01.jpeg"
+	linkURL="images/11-01.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Shire Horse Trophy</h3><br /><p>Commissioned sculpted model of a Shire Horse pulling a wagon for the Shire Horse Society</p>]]></caption>
+  </image>
+  <image imageURL="images/11-02.jpeg"
+	thumbURL="thumbs/11-02.jpeg"
+	linkURL="images/11-02.jpeg"
+	linkTarget="_blank">
+    <caption><![CDATA[<h3>Shire Horse Trophy</h3><br /><p>Commissioned sculpted model of a Shire Horse pulling a wagon for the Shire Horse Society</p>]]></caption>
+  </image>
+</simpleviewergallery>
